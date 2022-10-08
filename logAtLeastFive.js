@@ -12,5 +12,5 @@ function logAtMost5(n) {
     console.log(i);
   }
 }
-logAtMost5(3);
+logAtMost5(6);
 // The Big O notation is O(1) i.e constant because the value of n is dependent on the minimum value and does not increase beyond five
